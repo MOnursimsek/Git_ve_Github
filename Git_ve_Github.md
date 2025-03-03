@@ -23,7 +23,7 @@ GitHub, Git'in internet üzerinden kullanımını sağlayan bir web platformudur
 - **Hesap Oluşturma:** GitHub'da bir hesap oluşturmak için [GitHub'ın web sitesine](https://github.com/) gidin ve [Sing up](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home) bölümünden bir kullanıcı adı, e-posta ve şifreyle kaydolun. Daha sonra kullanıcı adınız ve şifreniz ile hesabınıza giriş yapabilirsiniz.
 
 - **Depo (Repository) Oluşturma:** GitHub hesabınızla giriş yaptıktan sonra, yeni bir proje başlatmak için bir "repository" oluşturabilirsiniz. Repository, projenizin tüm dosyalarını, geçmişini ve sürümlerini içinde barındırır. Repositorynizi Public veya Private olarak oluşturabilirsiniz. 
-![alt text](repo.png)
+![alt text](Git_ve_Github/Repo.png)
 - **Git Kullanarak Repo’ya Erişim:** Projenizi yerel bilgisayarınızda geliştirebilir ve daha sonra insanlaral veya ekip arkadaşlarınınzla paylaşmak veya projenize verisyonlar eklemek için Git'i kurarak, terminal veya komut satırı üzerinden depoya erişebilirsiniz. 
 
 Github sadece çoğunlukla yazılımcılar tarafından kullanılsada isteyen herkes bir hesap oluşturup kendi dosyalarını insanlarla paylaşabilir veya depolayabilir.
@@ -65,13 +65,13 @@ Repository (veya kısaca Repo), tüm proje geçmişinin, sürümlerinin ve commi
 
 Bu alanlar arasında dosyalarınızı taşıyarak versiyon kontrolü yapabilirsiniz.
 Aşağıda bu akışı gösteren bir vektör grafiği ilave edilmiştir
-![alt text](Git-Reference_Sheet.svg)[Grafiğin web sayfası]
+![alt text](Git_ve_Github/Git-Reference_Sheet.svg)[Grafiğin web sayfası]
 
 
 ### **GİT KURULUMU**
 Git'i bilgisayarınıza kurmak için [GİT](https://git-scm.com/) sayfasına giderek cihazınıza uygun dosyayı download kısmından indirerek kurulumu yapabilirisiniz. Kurulum sırasında özelleştirme yapmak istemiyorsanız sadece next tuşuna basın ve kurulumun bitmesini bekleyin. Eğer kurulum sırasında bir sıkıntı oluşmadıysa git diye aratma yaptığınızda Git Bash ve Git GUI uygulamalarını görmeniz gerekir. Git Bash komut satırı kullanarak git işlemleri yapmanızı sağlar Git GUI ise basit bir grafik arayüzü ile işlem yapmanızı sağlar.
 
-![alt text](image-1.png)
+![alt text](Git_ve_Github/image-1.png)
 
 ### **ÖNEMLİ GİT KOMUTLARI VE İŞLEVLERİ**
 Öncelikle Git için bir çok komut vardır biz sadece bir kısmını inceleyecegiz Git'in bütün dökümantasyonuna [buradan](https://git-scm.com/doc) ulaşabilirsiniz.
