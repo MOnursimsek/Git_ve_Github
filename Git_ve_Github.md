@@ -139,6 +139,7 @@ git add <dosya_adı>
 git add index.html
 ```
 Bu komut, index.html dosyasındaki değişiklikleri staging area'ya ekler, yani bu dosya bir sonraki commit için hazırlanır.
+
 ---
 
 #### **`git status`**
