@@ -425,11 +425,4 @@ git pull --all
 Böylece bazı Git komutlarını incelemiş olduk incelediğimiz komutların farklı varyasyonlarına ve çok daha fazla git komutuna Git'in [dökümantasyon](https://git-scm.com/docs) sayfasından ulaşabilirsiniz.
 
 
-## Git ve GitHub Arasındaki Fark
-Son olarak Git ve Github arasındaki tamal farkdanda bahsederek makalamizi noktalayalım 
-
-Git: Dağıtık bir versiyon kontrol sistemidir. Git ile projeler yerel olarak yönetilir.
-
-GitHub: Git kullanarak projeleri barındırabileceğiniz bir platformdur. GitHub, projelerinizi kolayca paylaşmanızı ve başkalarıyla işbirliği yapmanızı sağlar.
-
 [Grafiğin web sayfası]:https://docs.nesi.org.nz/Getting_Started/Cheat_Sheets/Git-Reference_Sheet/
